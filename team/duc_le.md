@@ -3,7 +3,7 @@ layout: member
 title: Duc Le
 position: Ph.D. Student
 handle: duc_le
-email: 
+email: minhducl@uark.edu  
 twitter:
 github:
 scholar:
